@@ -6,17 +6,17 @@ print(" --- Chapter 8 Concatenation --- ")
 print("\n --- My Chess Profile Stats --- ")
 
 game = "Chess"
-strength_rapid = 1200, " elo"
-strength_blitz = 1180, " elo"
-strength_bullet = 900, " elo"
-prefrence = "I prefer playing blitz, "
+strength_rapid = "1200 elo"
+strength_blitz = "1180 elo"
+strength_bullet = "900 elo"
+preference = "I prefer playing blitz, "
 reason = "because it's balanced... nor too fast neither too slow."
 
 print(f"\nGame: {game}")
 print(f"Rapid: {strength_rapid}")
 print(f"Blitz: {strength_blitz}")
 print(f"Bullet: {strength_bullet}")
-print(f"Prefered Time Control: {prefrence + reason}")   # concatenated sentence
+print(f"Prefered Time Control: {preference} {reason}")   # concatenated sentence
 
 
 # 2. Concatenating variables - Favorite chess players 

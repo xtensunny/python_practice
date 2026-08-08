@@ -1,4 +1,4 @@
-# Chapter 8 Concatenating text strings
+# Chapter 8 Concatenating text strings.
 
 print(" --- Chapter 8 Concatenation --- ")
 
